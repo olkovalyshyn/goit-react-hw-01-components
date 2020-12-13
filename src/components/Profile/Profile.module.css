@@ -1,0 +1,33 @@
+.profile {
+  width: 600px;
+  background-color: rgb(45, 177, 28);
+}
+
+.description {
+  text-align: center;
+  font-size: 30px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 500px;
+  padding: 50px;
+  background-color: yellow;
+}
+
+.name {
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+}
+
+.activity {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  padding: 20px;
+}

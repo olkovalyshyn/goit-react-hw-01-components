@@ -1,0 +1,13 @@
+.item {
+  border: 2px solid black;
+  width: 200px;
+  text-align: center;
+}
+
+.head {
+  background-color: grey;
+}
+
+.row:nth-child(2n) {
+  background-color: rgb(223, 199, 199);
+}
